@@ -92,7 +92,7 @@ section{
     padding: 10px 20px;
     background: var(--main-color);
     color: #fff;
-    border-radius: 0.5rem;
+    border-radius: 0.6rem;
     transition: .4s ease-in-out;
 }
 .btn:hover{
